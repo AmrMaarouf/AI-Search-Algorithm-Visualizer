@@ -1,0 +1,37 @@
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm DFS failed: 'Buchurest'
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm DFS failed: 'Buchurest'
+External algorithm UCS failed: name 'heapq' is not defined
+External algorithm Greedy failed: name 'heapq' is not defined
+External algorithm A* failed: 'Buchurest'
+External algorithm Beam failed: beam_search() missing 3 required positional arguments: 'neighbors_fn', 'heuristic_fn', and 'beam_width'
+External algorithm Hill Climbing failed: 'Buchurest'
+External algorithm IDA* failed: 'Buchurest'
+External algorithm A* failed: 'Buchurest'
+External algorithm A* failed: 'Buchurest'
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm UCS failed: name 'heapq' is not defined
+External algorithm Greedy failed: name 'heapq' is not defined
+External algorithm A* failed: 'Buchurest'
+External algorithm Beam failed: beam_search() missing 3 required positional arguments: 'neighbors_fn', 'heuristic_fn', and 'beam_width'
+External algorithm Hill Climbing failed: 'Buchurest'
+External algorithm IDA* failed: 'Buchurest'
+External algorithm IDA* failed: 'Buchurest'
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm UCS failed: name 'heapq' is not defined
+External algorithm Greedy failed: name 'heapq' is not defined
+External algorithm A* failed: name 'math' is not defined
+External algorithm Beam failed: beam_search() missing 3 required positional arguments: 'neighbors_fn', 'heuristic_fn', and 'beam_width'
+External algorithm Hill Climbing failed: name 'math' is not defined
+External algorithm IDA* failed: name 'math' is not defined
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm IDA* failed: name 'math' is not defined
+External algorithm Hill Climbing failed: name 'math' is not defined
+External algorithm Beam failed: beam_search() missing 3 required positional arguments: 'neighbors_fn', 'heuristic_fn', and 'beam_width'
+External algorithm Greedy failed: name 'heapq' is not defined
+External algorithm A* failed: name 'math' is not defined
+External algorithm BFS failed: name 'deque' is not defined
+External algorithm UCS failed: name 'heapq' is not defined
+External algorithm Greedy failed: name 'heapq' is not defined
